@@ -36,6 +36,7 @@ A custom Home Assistant button card to display your Discord game status, includi
 4. Restart Home Assistant.
 
 ### Step 3: Add the Button Card Configuration
+
 1. Add the following configuration to your Lovelace dashboard using the **Manual Card** option:
 
 ```yaml
@@ -87,7 +88,7 @@ A custom Home Assistant button card to display your Discord game status, includi
         - justify-content: center
         - align-items: flex-start
 ```
-
+**Important**: In the above configuration, replace userid with your own Discord user ID. You can find this ID from the Discord game integration sensors. The user ID is typically a numeric string specific to your Discord account and is required for correctly referencing the sensor data related to your Discord user.
 ---
 
 ## Screenshots
