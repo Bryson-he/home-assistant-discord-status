@@ -32,7 +32,7 @@ A custom Home Assistant button card to display your Discord game status, includi
 ### Step 2: Install Custom Button Card
 1. Open HACS in Home Assistant.
 2. Go to **Frontend > Explore & Download Repositories**.
-3. Search for **Button Card** and install it.
+3. Search for [Button Card](https://github.com/custom-cards/button-card) and install it.
 4. Restart Home Assistant.
 
 ### Step 3: Add the Button Card Configuration
