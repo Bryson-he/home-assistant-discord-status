@@ -90,6 +90,7 @@ A custom Home Assistant button card to display your Discord game status, includi
 ```
 
 ## Important
+
 In the above configuration, replace **userid** with your own Discord user ID. You can find this ID from the Discord game integration sensors. The user ID is typically a numeric string specific to your Discord account and is required for correctly referencing the sensor data related to your Discord user.
 ---
 
